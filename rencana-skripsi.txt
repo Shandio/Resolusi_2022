@@ -1,2 +1,3 @@
 RENCANA SKRIPSI 2023
-- BELOM TAU
+- cari bahan/jurnal untuk acuan skripsi.
+- belajar membuat program web-base di youtube.
