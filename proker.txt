@@ -1,5 +1,8 @@
 PROKER KARTAR 2022
-- minyak jelantah
+- minyak jelantah 
+  * berjalan 1 bulan sekali
+  * setiap 1 liter minyak jelantah dihargai Rp.5.000
 - hidroponik
 - bank sampah
 - rekrutmen anggota baru
+  * awal oktober akan di diskusikan terkait teknis rekrutmen anggota baru
